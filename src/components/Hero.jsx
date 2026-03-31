@@ -9,7 +9,8 @@ const Hero = () => {
 
   // 2. We use useEffect to check the screen size when the website loads
   useEffect(() => {
-    const mediaQuery = window.matchMedia("(max-width: 500px)");
+    // Change 500px to 768px
+const mediaQuery = window.matchMedia("(max-width: 768px)");
     
     // Set the initial value
     setIsMobile(mediaQuery.matches);

@@ -1,10 +1,10 @@
 # 🚀 3D Developer Portfolio
 
-A modern, interactive software developer portfolio built to showcase my experience, projects, and technical skills. It features 3D graphics, responsive
+A modern, interactive software developer portfolio built to showcase my experience, projects, and technical skills. It features 3D graphics, responsive design, and dynamic project routing.
 
 https://github.com/user-attachments/assets/41bbedd7-4d67-4aab-a190-a262f96fe017
 
- design, and dynamic project routing.
+
 
 ## ✨ Features
 * **Interactive 3D Elements:** Rendered custom 3D models using Three.js and React Three Fiber.

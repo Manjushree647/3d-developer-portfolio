@@ -1,16 +1,30 @@
-# React + Vite
+# 🚀 3D Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive software developer portfolio built to showcase my experience, projects, and technical skills. It features 3D graphics, responsive design, and dynamic project routing.
 
-Currently, two official plugins are available:
+## ✨ Features
+* **Interactive 3D Elements:** Rendered custom 3D models using Three.js and React Three Fiber.
+* **Modern UI/UX:** Styled completely with Tailwind CSS for a responsive, mobile-friendly experience.
+* **Dynamic Sections:** Includes detailed Experience, Projects, and Achievements timelines.
+* **Framer Motion Animations:** Smooth page transitions and scroll-linked animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Vite
+* **Styling:** Tailwind CSS
+* **3D Graphics:** Three.js, React Three Fiber, React Three Drei
+* **Animations:** Framer Motion
 
-## React Compiler
+## 🚀 Quick Start
+To run this project locally on your machine:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   \`git clone https://github.com/Manjushree647/3d-developer-portfolio.git\`
+2. Install dependencies:
+   \`npm install\`
+3. Start the development server:
+   \`npm run dev\`
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📫 Let's Connect
+Feel free to reach out if you're looking for an adaptable, full-stack engineer!
+* **LinkedIn:** https://www.linkedin.com/in/manjushree-navnath-dighe-90293a257/
+* **Email:** dighemanju11@gmail.com
